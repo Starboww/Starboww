@@ -6,17 +6,12 @@
 <a href="https://www.linkedin.com/in/suraj-prasad-soni-47273b192/">
   <img align="left" alt="Suraj's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
-
 <br />
 <br />
-
 Hi, I'm Suraj Prasad Soni, a Android Developer, who loves exploring different stuff and trying out new technologies, currently I'm studying at KIIT University. 
-
 <br/>
 <br/>
-
-  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />
+  <img align="right" height="250" width="350" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />
 
 **Talking about Personal Stuffs:**
 
