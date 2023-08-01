@@ -15,7 +15,7 @@ Hi, I'm Suraj Prasad Soni, a Android Developer, who loves exploring different st
 
 **Talking about Personal Stuffs:**
 
-- 🛠 Currently working with Kotlin, Java,Firebase,Google ML kit; 
+- 🛠 Currently working with Kotlin, Java,Spring Boot; 
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 reach me on: surajsoni119@gmail.com;
 
