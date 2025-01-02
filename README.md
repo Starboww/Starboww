@@ -8,7 +8,7 @@
 </a>
 <br />
 <br />
-Hi, I'm Suraj Prasad Soni, a Android Developer, who loves exploring different stuff and trying out new technologies, currently I'm studying at KIIT University. 
+Hi, I'm Suraj Prasad Soni, a Android Developer, who loves exploring different stuff and trying out new technologies,
 <br/>
 <br/>
   <img align="right" height="250" width="350" alt="GIF" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" />
